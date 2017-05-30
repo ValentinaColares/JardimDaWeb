@@ -1,0 +1,17 @@
+SMAP
+plantas_jsp.java
+JSP
+*S JSP
+*F
++ 0 cabecalho.jsp
+site/cabecalho.jsp
++ 1 plantas.jsp
+site/plantas.jsp
++ 2 rodape.jsp
+site/rodape.jsp
+*L
+1,163:50
+1#1,69:212
+1#2,129:280
+69#1:408
+*E

@@ -1,0 +1,17 @@
+SMAP
+detalhe_jsp.java
+JSP
+*S JSP
+*F
++ 0 cabecalho.jsp
+site/cabecalho.jsp
++ 1 detalhe.jsp
+site/detalhe.jsp
++ 2 rodape.jsp
+site/rodape.jsp
+*L
+1,143:50
+1#1,42:192
+1#2,129:233
+42#1:361
+*E
