@@ -1,0 +1,16 @@
+SMAP
+index_jsp.java
+JSP
+*S JSP
+*F
++ 0 cabecalho.jsp
+site/casa/../cabecalho.jsp
++ 1 index.jsp
+site/casa/index.jsp
++ 2 rodape.jsp
+site/casa/../rodape.jsp
+*L
+1,153:50
+1#1,18:202
+1#2,129:219
+*E

@@ -10,7 +10,7 @@
         <title>Jardim da Web</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="icon" type="image/png" href="favicon.ico">
+        <link rel="icon" type="image/png" href="../favicon.ico">
 
         <!--Google Font link-->
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
@@ -18,27 +18,27 @@
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
 
 
-        <link rel="stylesheet" href="assets/css/slick.css">
-        <link rel="stylesheet" href="assets/css/slick-theme.css">
-        <link rel="stylesheet" href="assets/css/animate.css">
-        <link rel="stylesheet" href="assets/css/fonticons.css">
-        <link rel="stylesheet" href="assets/css/font-awesome.min.css">
-        <link rel="stylesheet" href="assets/css/bootstrap.css">
-        <link rel="stylesheet" href="assets/css/magnific-popup.css">
-        <link rel="stylesheet" href="assets/css/bootsnav.css">
+        <link rel="stylesheet" href="../assets/css/slick.css">
+        <link rel="stylesheet" href="../assets/css/slick-theme.css">
+        <link rel="stylesheet" href="../assets/css/animate.css">
+        <link rel="stylesheet" href="../assets/css/fonticons.css">
+        <link rel="stylesheet" href="../assets/css/font-awesome.min.css">
+        <link rel="stylesheet" href="../assets/css/bootstrap.css">
+        <link rel="stylesheet" href="../assets/css/magnific-popup.css">
+        <link rel="stylesheet" href="../assets/css/bootsnav.css">
 
 
         <!--For Plugins external css-->
-        <!--<link rel="stylesheet" href="assets/css/plugins.css" />-->
+        <link rel="stylesheet" href="assets/css/plugins.css" />
 
         <!--Theme custom css -->
-        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="../assets/css/style.css"> 
         <!--<link rel="stylesheet" href="assets/css/colors/maron.css">-->
 
         <!--Theme Responsive css-->
-        <link rel="stylesheet" href="assets/css/responsive.css" />
+        <link rel="stylesheet" href="../assets/css/responsive.css" />
 
-        <script src="assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+        <script src="../assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     </head>
 
     <body data-spy="scroll" data-target=".navbar-collapse">
@@ -89,10 +89,10 @@
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                             <i class="fa fa-bars"></i>
                         </button>
-                        <a class="navbar-brand" href="index.jsp">
+                        <a class="navbar-brand" href="../index.jsp">
 
-                            <img src="assets/images/logo.png" class="logo logo-display m-top-10" alt="" height="54" width="103" > <!--fazer o meu logo -->
-                            <img src="assets/images/logo.png" class="logo logo-scrolled" alt="" height="54" width="103">
+                            <img src="../assets/images/logo.png" class="logo logo-display m-top-10" alt="" height="54" width="103" > <!--fazer o meu logo -->
+                            <img src="../assets/images/logo.png" class="logo logo-scrolled" alt="" height="54" width="103">
 
                         </a>
                     </div>
@@ -105,28 +105,28 @@
                             <li class="dropdown">
                                 <a class="dropdown-toggle" data-toggle="dropdown" href="#">Categorias<span></span></a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="plantas.jsp">Árvores</a></li>
-                                    <li><a href="plantas.jsp">Temperos</a></li>
-                                    <li><a href="plantas.jsp">Chás</a></li>
-                                    <li><a href="plantas.jsp">Flores</a></li>
-                                    <li><a href="plantas.jsp">Verduras</a></li>
-                                    <li><a href="plantas.jsp">Legumes</a></li>
-                                    <li><a href="plantas.jsp">PANC's</a></li>
+                                    <li><a href="listaPlantas.jsp">Árvores</a></li>
+                                    <li><a href="listaPlantas.jsp">Temperos</a></li>
+                                    <li><a href="listaPlantas.jsp">Chás</a></li>
+                                    <li><a href="listaPlantas.jsp">Flores</a></li>
+                                    <li><a href="listaPlantas.jsp">Verduras</a></li>
+                                    <li><a href="listaPlantas.jsp">Legumes</a></li>
+                                    <li><a href="listaPlantas.jsp">PANC's</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown">
                                 <a class="dropdown-toggle" data-toggle="dropdown" href="#">Doações<span></span></a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="doacoes.jsp">Árvores</a></li>
-                                    <li><a href="doacoes.jsp">Temperos</a></li>
-                                    <li><a href="doacoes.jsp">Chás</a></li>
-                                    <li><a href="doacoes.jsp">Flores</a></li>
-                                    <li><a href="doacoes.jsp">Verduras</a></li>
-                                    <li><a href="doacoes.jsp">Legumes</a></li>
-                                    <li><a href="doacoes.jsp">PANC's</a></li>
+                                    <li><a href="listaDoacoes.jsp">Árvores</a></li>
+                                    <li><a href="listaDoacoes.jsp">Temperos</a></li>
+                                    <li><a href="listaDoacoes.jsp">Chás</a></li>
+                                    <li><a href="listaDoacoes.jsp">Flores</a></li>
+                                    <li><a href="listaDoacoes.jsp">Verduras</a></li>
+                                    <li><a href="listaDoacoes.jsp">Legumes</a></li>
+                                    <li><a href="listaDoacoes.jsp">PANC's</a></li>
                                 </ul>
                             </li>
-                            <li><a href="login.jsp">Meu Perfil</a></li> 
+                            <li><a href="casa/login.jsp">Meu Perfil</a></li> 
                             <li><a href="#contact">Sugestões</a></li>                    
                         </ul>
                     </div>
